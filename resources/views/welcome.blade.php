@@ -11,7 +11,7 @@
         <meta property="og:type" content="website" />
         <meta property="og:title" content="{{ config('app.name') }}" />
         <meta property="og:description" content="Lemon Gate Info. Tech. Comm. Official" />
-        <meta property="og:image" content="assets/img/WhatsApp_Image_2022-11-01_at_09.10.49-removebg-preview.png" />
+        <meta property="og:image" content="assets/img/preview.png" />
         <meta property="og:image:width" content="200" />
         <meta property="og:image:height" content="200" />
         <meta property="og:image:type" content="image/png" />
