@@ -467,9 +467,9 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="team-item bg-light rounded">
                                 <div class="text-center border-bottom p-4">
-                                    <img class="img-fluid rounded-circle mb-4" src="assets/img/team-1.jpg" alt="">
-                                    <h5>John Doe</h5>
-                                    <span>CEO & Founder</span>
+                                    <img class="img-fluid rounded-circle mb-4" src="assets/img/2.png" alt="">
+                                    <h5>Ekwueme Innocent .J</h5>
+                                    <span>Team Lead</span>
                                 </div>
                                 <div class="d-flex justify-content-center p-4">
                                     <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -482,9 +482,9 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="team-item bg-light rounded">
                                 <div class="text-center border-bottom p-4">
-                                    <img class="img-fluid rounded-circle mb-4" src="assets/img/team-2.jpg" alt="">
-                                    <h5>Jessica Brown</h5>
-                                    <span>Web App Developer</span>
+                                    <img class="img-fluid rounded-circle mb-4" src="assets/img/3.png" alt="">
+                                    <h5>Sunday A Chinedu</h5>
+                                    <span>Fullstack Developer</span>
                                 </div>
                                 <div class="d-flex justify-content-center p-4">
                                     <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -497,9 +497,9 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="team-item bg-light rounded">
                                 <div class="text-center border-bottom p-4">
-                                    <img class="img-fluid rounded-circle mb-4" src="assets/img/team-3.jpg" alt="">
-                                    <h5>Tony Johnson</h5>
-                                    <span>Mobile App Developer</span>
+                                    <img class="img-fluid rounded-circle mb-4" src="assets/img/1.png" alt="">
+                                    <h5>Ayodele Salimonu</h5>
+                                    <span>Mobile Developer</span>
                                 </div>
                                 <div class="d-flex justify-content-center p-4">
                                     <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
