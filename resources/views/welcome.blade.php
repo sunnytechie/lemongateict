@@ -87,7 +87,11 @@
                         <div class="row g-5 align-items-end">
                             <div class="col-lg-6 text-center text-lg-start">
                                 <h1 class="text-white mb-4 animated slideInDown">A Digital Agency Of Inteligents & Creative People</h1>
-                                <p class="text-white pb-3 animated slideInDown">Tempor rebum no at dolore lorem clita rebum rebum ipsum rebum stet dolor sed justo kasd. Ut dolor sed magna dolor sea diam. Sit diam sit justo amet ipsum vero ipsum clita lorem</p>
+                                <p class="text-white pb-3 animated slideInDown">LEGIT, Creating Business Growth and Innovation
+                                    Because Tech and Digitalization are changing the way we interact with each other. 
+                                    LEGIT knows that Organizations that can adapt, will be successful. So, we are here 
+                                    for you.
+                                    </p>
                                 <a href="#project" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Read More</a>
                                 <a href="#contact" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact Us</a>
                             </div>
@@ -109,21 +113,27 @@
                             <div class="feature-item bg-light rounded text-center p-4">
                                 <i class="fa fa-3x fa-mail-bulk text-primary mb-4"></i>
                                 <h5 class="mb-3">Digital Marketing</h5>
-                                <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <p class="m-0">Your brand is the message your business is trying to communicate with your 
+                                    people. <br>It is imperative that you devise a perfect means to spread your business 
+                                    message.</p>
                             </div>
                         </div>
                         <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="feature-item bg-light rounded text-center p-4">
                                 <i class="fa fa-3x fa-search text-primary mb-4"></i>
                                 <h5 class="mb-3">SEO & Backlinks</h5>
-                                <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <p class="m-0">You don’t wish to run an invisible business; we will make your services appear On 
+                                    Page 1 On Search Engines. Rank Higher On Searches. Get Discovered Online Easily.
+                                    </p>
                             </div>
                         </div>
                         <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="feature-item bg-light rounded text-center p-4">
                                 <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
                                 <h5 class="mb-3">Design & Development</h5>
-                                <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <p class="m-0">We ensure that all our Web and Mobile applications solution projects are not only 
+                                    engineered using the most cutting-edge technologies, but also, they're created 
+                                    through a human-centered design process.</p>
                             </div>
                         </div>
                     </div>
@@ -139,7 +149,10 @@
                         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                             <p class="section-title text-secondary">About Us<span></span></p>
                             <h1 class="mb-5">#1 Digital solution with 10 years of experience</h1>
-                            <p class="mb-4">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo eirmod magna dolore erat amet</p>
+                            <p class="mb-4">At LEGIT we wish to simplify the difficulties surrounding all areas of ICT by 
+                                building and deploying deep expertise to propel the businesses that shape the 
+                                world.
+                                </p>
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
                                     <p class="mb-2">Digital Marketing</p>
@@ -284,12 +297,12 @@
     
             <!-- Newsletter Start -->
             <div class="container-xxl bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="container py-5 px-lg-5">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-7 text-center">
-                            <p class="section-title text-white justify-content-center"><span></span>Newsletter<span></span></p>
-                            <h1 class="text-center text-white mb-4">Stay Always In Touch</h1>
-                            <p class="text-white mb-4">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit sed stet lorem sit clita duo justo</p>
+                <div class="container py-3 px-lg-5">
+                    <div class="row justify-content-start">
+                        <div class="col-lg-7">
+                            <p class="section-title text-white justify-content-start"><span></span>Newsletter<span></span></p>
+                            <h1 class="text-left text-white mb-4">Stay Always In Touch</h1>
+                            <p class="text-white mb-4">Kindly join our mailing list to get more information on our product and services.</p>
                             <div class="position-relative w-100 mt-3">
                                 <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text" placeholder="Enter Your Email" style="height: 48px;">
                                 <button type="button" class="btn shadow-none position-absolute top-0 end-0 mt-1 me-2"><i class="fa fa-paper-plane text-primary fs-4"></i></button>
@@ -312,13 +325,14 @@
                         <div class="col-12 text-center">
                             <ul class="list-inline mb-5" id="portfolio-flters">
                                 <li class="mx-2 active" data-filter="*">All</li>
-                                <li class="mx-2" data-filter=".first">Web Design</li>
-                                <li class="mx-2" data-filter=".second">Graphic Design</li>
+                                <li class="mx-2" data-filter=".first">Mobile Application</li>
+                                <li class="mx-2" data-filter=".second">Web Applications</li>
                             </ul>
                         </div>
                     </div>
                     <div class="row g-4 portfolio-container">
-                        <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
+
+                        {{-- <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                             <div class="rounded overflow-hidden">
                                 <div class="position-relative overflow-hidden">
                                     <img class="img-fluid w-100" src="img/portfolio-1.jpg" alt="">
@@ -332,8 +346,9 @@
                                     <h5 class="lh-base mb-0">Digital Agency Website Design And Development</a>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.3s">
+                        </div> --}}
+
+                        {{-- <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.3s">
                             <div class="rounded overflow-hidden">
                                 <div class="position-relative overflow-hidden">
                                     <img class="img-fluid w-100" src="img/portfolio-2.jpg" alt="">
@@ -347,67 +362,74 @@
                                     <h5 class="lh-base mb-0">Digital Agency Website Design And Development</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
+
                         <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
-                            <div class="rounded overflow-hidden">
-                                <div class="position-relative overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/portfolio-3.jpg" alt="">
-                                    <div class="portfolio-overlay">
-                                        <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                        <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                                    </div>
-                                </div>
+                            <a href="https://play.google.com/store/apps/details?id=org.anglican_ng.android.conaio" class="rounded overflow-hidden">
                                 <div class="bg-light p-4">
-                                    <p class="text-primary fw-medium mb-2">UI / UX Design</p>
-                                    <h5 class="lh-base mb-0">Digital Agency Website Design And Development</a>
+                                    <p class="text-primary fw-medium mb-2">Mobile App</p>
+                                    <h5 class="lh-base mb-0 text-dark">Conaio App (Church of Nigeria Anglican Communion All In One Worship App)</h5>
                                 </div>
-                            </div>
+                            </a>
                         </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.1s">
-                            <div class="rounded overflow-hidden">
-                                <div class="position-relative overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/portfolio-4.jpg" alt="">
-                                    <div class="portfolio-overlay">
-                                        <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-4.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                        <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                                    </div>
-                                </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
+                            <a href="https://play.google.com/store/apps/details?id=com.driver.movebot.ng.app&hl=e" class="rounded overflow-hidden">
                                 <div class="bg-light p-4">
-                                    <p class="text-primary fw-medium mb-2">UI / UX Design</p>
-                                    <h5 class="lh-base mb-0">Digital Agency Website Design And Development</a>
+                                    <p class="text-primary fw-medium mb-2">Mobile App</p>
+                                    <h5 class="lh-base mb-0 text-dark">MoveBot Android</h5>
                                 </div>
-                            </div>
+                            </a>
                         </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.3s">
-                            <div class="rounded overflow-hidden">
-                                <div class="position-relative overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/portfolio-5.jpg" alt="">
-                                    <div class="portfolio-overlay">
-                                        <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-5.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                        <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                                    </div>
-                                </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
+                            <a href="https://play.google.com/store/apps/details?id=com.bt.mbiller" class="rounded overflow-hidden">
                                 <div class="bg-light p-4">
-                                    <p class="text-primary fw-medium mb-2">UI / UX Design</p>
-                                    <h5 class="lh-base mb-0">Digital Agency Website Design And Development</a>
+                                    <p class="text-primary fw-medium mb-2">Mobile App</p>
+                                    <h5 class="lh-base mb-0 text-dark">Mbiller</h5>
                                 </div>
-                            </div>
+                            </a>
                         </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
+                            <a href="https://play.google.com/store/apps/details?id=ng.trashit.app" class="rounded overflow-hidden">
+                                <div class="bg-light p-4">
+                                    <p class="text-primary fw-medium mb-2">Mobile App</p>
+                                    <h5 class="lh-base mb-0 text-dark">Trash IT</h5>
+                                </div>
+                            </a>
+                        </div>
+
+
+                        {{-- Second  --}}
+
                         <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
-                            <div class="rounded overflow-hidden">
-                                <div class="position-relative overflow-hidden">
-                                    <img class="img-fluid w-100" src="img/portfolio-6.jpg" alt="">
-                                    <div class="portfolio-overlay">
-                                        <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                                        <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
-                                    </div>
-                                </div>
+                            <a href="https://www.peaceland.edu.ng" class="rounded overflow-hidden">
                                 <div class="bg-light p-4">
-                                    <p class="text-primary fw-medium mb-2">UI / UX Design</p>
-                                    <h5 class="lh-base mb-0">Digital Agency Website Design And Development</a>
+                                    <p class="text-primary fw-medium mb-2">Web Portal</p>
+                                    <h5 class="lh-base mb-0 text-dark">University - Peaceland University of Education Enugu</h5>
                                 </div>
-                            </div>
+                            </a>
                         </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
+                            <a href="https://www.pleasantgathering.ng" class="rounded overflow-hidden">
+                                <div class="bg-light p-4">
+                                    <p class="text-primary fw-medium mb-2">Web Portal</p>
+                                    <h5 class="lh-base mb-0 text-dark">NGO - Pleasant Gathering</h5>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
+                            <a href="https://www.dnalcnigeria.org" class="rounded overflow-hidden">
+                                <div class="bg-light p-4">
+                                    <p class="text-primary fw-medium mb-2">Web Portal</p>
+                                    <h5 class="lh-base mb-0 text-dark">DNA Bio College - DNALC Nigeria</h5>
+                                </div>
+                            </a>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -499,7 +521,7 @@
                                 <div class="text-center border-bottom p-4">
                                     <img class="img-fluid rounded-circle mb-4" src="assets/img/1.png" alt="">
                                     <h5>Ayodele Salimonu</h5>
-                                    <span>Mobile Developer</span>
+                                    <span>Mobile App Developer</span>
                                 </div>
                                 <div class="d-flex justify-content-center p-4">
                                     <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -521,7 +543,7 @@
                     <div class="row g-5">
                         <div class="col-md-6 col-lg-4">
                             <p class="section-title text-white h5 mb-4">Address<span></span></p>
-                            <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
+                            <p><i class="fa fa-map-marker-alt me-3"></i>Enugu, Enugug State, NGN</p>
                             <p><i class="fa fa-phone-alt me-3"></i>+234 708 989 3558</p>
                             <p><i class="fa fa-envelope me-3"></i>info@lemongateict.com</p>
                             <div class="d-flex pt-2">
@@ -533,11 +555,11 @@
                         </div>
                         <div class="col-md-6 col-lg-4">
                             <p class="section-title text-white h5 mb-4">Quick Link<span></span></p>
-                            <a class="btn btn-link" href="">About Us</a>
-                            <a class="btn btn-link" href="">Contact Us</a>
-                            <a class="btn btn-link" href="">Privacy Policy</a>
+                            <a class="btn btn-link" href="#about">About Us</a>
+                            <a class="btn btn-link" href="#contact">Contact Us</a>
+                            {{-- <a class="btn btn-link" href="">Privacy Policy</a>
                             <a class="btn btn-link" href="">Terms & Condition</a>
-                            <a class="btn btn-link" href="">Career</a>
+                            <a class="btn btn-link" href="">Career</a> --}}
                         </div>
 
                         {{-- <div class="col-md-6 col-lg-3">
@@ -566,7 +588,7 @@
 
                         <div class="col-md-6 col-lg-4">
                             <p class="section-title text-white h5 mb-4">Newsletter<span></span></p>
-                            <p>Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu</p>
+                            <p>Welcome to lemongate, we offer the best ICT services. Kindly join our newsletter</p>
                             <div class="position-relative w-100 mt-3">
                                 <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text" placeholder="Your Email" style="height: 48px;">
                                 <button type="button" class="btn shadow-none position-absolute top-0 end-0 mt-1 me-2"><i class="fa fa-paper-plane text-primary fs-4"></i></button>
