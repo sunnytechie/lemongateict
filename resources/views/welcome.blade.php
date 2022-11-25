@@ -235,7 +235,9 @@
                                     <i class="fa fa-search fa-2x"></i>
                                 </div>
                                 <h5 class="mb-3">SEO Optimization</h5>
-                                <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <p class="m-0">You don’t wish to run an invisible business; we will make your services appear On 
+                                    Page 1 On Search Engines. Rank Higher on Searches. Get Discovered Online Easily. 
+                                    </p>
                                 <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -245,7 +247,9 @@
                                     <i class="fa fa-laptop-code fa-2x"></i>
                                 </div>
                                 <h5 class="mb-3">Web Design</h5>
-                                <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <p class="m-0">We ensure that all our web development and application solution projects are not 
+                                    only engineered using the most cutting-edge technologies, but also, they're 
+                                    created through a human-centered design process.</p>
                                 <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -255,27 +259,20 @@
                                     <i class="fab fa-facebook-f fa-2x"></i>
                                 </div>
                                 <h5 class="mb-3">Social Media Marketing</h5>
-                                <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <p class="m-0">Your brand is the message your business is trying to communicate with your 
+                                    people. It is imperative that you devise a perfect means to spread your business 
+                                    message.</p>
                                 <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item d-flex flex-column text-center rounded">
                                 <div class="service-icon flex-shrink-0">
-                                    <i class="fa fa-mail-bulk fa-2x"></i>
+                                    <i class="fa fa-credit-card fa-2x"></i>
                                 </div>
-                                <h5 class="mb-3">Email Marketing</h5>
-                                <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
-                                <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                            <div class="service-item d-flex flex-column text-center rounded">
-                                <div class="service-icon flex-shrink-0">
-                                    <i class="fa fa-thumbs-up fa-2x"></i>
-                                </div>
-                                <h5 class="mb-3">PPC Advertising</h5>
-                                <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <h5 class="mb-3">POS Solutions</h5>
+                                <p class="m-0">LEGIT Point of Sale Solution is a product management software built for you, no 
+                                    matter what industry your product serves.</p>
                                 <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -284,8 +281,20 @@
                                 <div class="service-icon flex-shrink-0">
                                     <i class="fab fa-android fa-2x"></i>
                                 </div>
-                                <h5 class="mb-3">App Development</h5>
-                                <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.</p>
+                                <h5 class="mb-3">App Programming</h5>
+                                <p class="m-0">At LEGIT we customize mobile application development and help clients to 
+                                    conceptualize, plan and roll out their mobility journey.</p>
+                                <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="service-item d-flex flex-column text-center rounded">
+                                <div class="service-icon flex-shrink-0">
+                                    <i class="fa fa-phone-square fa-2x"></i>
+                                </div>
+                                <h5 class="mb-3">24/7 Support</h5>
+                                <p class="m-0">Our friendly customer support agents are always online/phone to support you 
+                                    whenever you need them.</p>
                                 <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
                             </div>
                         </div>
@@ -543,7 +552,7 @@
                     <div class="row g-5">
                         <div class="col-md-6 col-lg-4">
                             <p class="section-title text-white h5 mb-4">Address<span></span></p>
-                            <p><i class="fa fa-map-marker-alt me-3"></i>Enugu, Enugug State, NGN</p>
+                            <p><i class="fa fa-map-marker-alt me-3"></i>Enugu State, Nigeria</p>
                             <p><i class="fa fa-phone-alt me-3"></i>+234 708 989 3558</p>
                             <p><i class="fa fa-envelope me-3"></i>info@lemongateict.com</p>
                             <div class="d-flex pt-2">
